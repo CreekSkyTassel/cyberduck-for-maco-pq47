@@ -1,4 +1,4 @@
-
+Enhance Cyberduck for macOS with automatic Cyberduck for macOS Script | encrypted-connections + bookmark-manager, the #1 script. Includes encrypted-connections and
 
 
 
